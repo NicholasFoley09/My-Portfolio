@@ -4,3 +4,7 @@
 .diff {
     font-family: 'Poppins', sans-serif;
 }
+
+.navbar-brand {
+    width: 70px;
+}
